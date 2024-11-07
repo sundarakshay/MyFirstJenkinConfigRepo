@@ -1,4 +1,4 @@
-package javaexamples;
+import java.lang.*;
 
 public class ProgramOne {
 
